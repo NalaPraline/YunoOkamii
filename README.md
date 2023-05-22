@@ -110,8 +110,5 @@
   </tr>
 
 </br>
-<p align="center">📫 My linkedin:
-</br>
-<a href="https://www.linkedin.com/in/filip-burg-4b8a19194/"><img margin="5" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="60">
 </br>
 </br>
