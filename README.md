@@ -100,9 +100,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="48" height="48" alt="MSSQL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="48" height="48" alt="MSSQL" />
       </a>
-      <br>Jquery
+      <br>C
     </td>
 </table>
 </br>
