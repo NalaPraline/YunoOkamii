@@ -1,4 +1,3 @@
-### ReadMe YunoOkami <img src="https://www.zupimages.net/up/21/46/ljmh.png" width="30px">
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
